@@ -1,4 +1,4 @@
-# abdulrehman
+# Abdul Rehman Khan (abdulrehman.aries1992@gmail.com)
 
 A new Flutter project.
 
